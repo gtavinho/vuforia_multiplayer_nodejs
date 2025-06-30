@@ -1,4 +1,4 @@
-# 🎮 Sistema Multijogador com NodeJS
+# 🎮 Sistema Multijogador com NodeJS - Realidade Aumentada
 Aplicação do recurso multiplayer via nodejs em um ambiente de realidade aumentada com Vuforia / Unity3D para Android
 # 
 
